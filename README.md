@@ -39,17 +39,16 @@ Built with Python + Tkinter/Streamlit.
 
 ## 📚 Currently Learning
 
-- 🕵️ Web Application Hacking (XSS, SQLi, IDOR, etc.)
-- ⚙️ Automating tools for bug bounty
+- 🕵️ Building simple machine learning models
+- ⚙️ AI-powered automating tools
 - 🧠 Advanced Python scripting for ethical hacking
 
 ---
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-link)
-📧 kerim@example.com  
-🌐 [My Website](https://your-portfolio-site.com) (coming soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/www.linkedin.com/in/kerim-ovezmuradov-900710376)
+📧 email: ovezmuradov1208@gmail.com  
 
 ---
 
