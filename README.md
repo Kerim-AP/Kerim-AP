@@ -47,7 +47,7 @@ Built with Python + Tkinter/Streamlit.
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/www.linkedin.com/in/kerim-ovezmuradov-900710376)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kerim-ovezmuradov-900710376)
 📧 email: ovezmuradov1208@gmail.com  
 
 ---
