@@ -2,7 +2,7 @@
 
 🎓 A student at Asia Pacific University (APU), Malaysia  
 💻 Passionate about **ethical hacking**, **AI tools**, and building **automation apps with Python**  
-🎯 Currently learning **bug bounty hunting**, **web exploitation**, and **secure coding practices**
+🎯 Currently learning **Machine Learning**, **web exploitation**, and **Data Analytics**
 
 ---
 
