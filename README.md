@@ -52,4 +52,4 @@ Built with Python + Tkinter/Streamlit.
 
 ---
 
-> 🚧 *This portfolio is a work in progress as I continue my journey in cybersecurity and development.*
+> 🚧 *This portfolio is a work in progress as I continue my journey in AI and Machine Learning development.*
