@@ -26,7 +26,6 @@ Built with Streamlit + OpenRouter API.
 ### 🧾 Bulk File Renamer – Desktop Automation Tool
 Cross-platform GUI app to batch rename files using rules.  
 Built with Python + Tkinter/Streamlit.  
-💡 Monetized version in progress.  
 📎 [View on GitHub](https://github.com/Kerim-AP/Bulk-File-Renamer)
 
 ---
