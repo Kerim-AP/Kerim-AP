@@ -2,7 +2,7 @@
 
 🎓 A student at Asia Pacific University (APU), Malaysia  
 💻 Passionate about **ethical hacking**, **AI tools**, and building **automation apps with Python**  
-🎯 Currently learning **Machine Learning**, **web exploitation**, and **Data Analytics**
+🎯 Currently learning **Machine Learning**, and **Data Analytics**
 
 ---
 
@@ -41,7 +41,7 @@ Built with Python + Tkinter/Streamlit.
 
 - 🕵️ Building simple machine learning models
 - ⚙️ AI-powered automating tools
-- 🧠 Advanced Python scripting for ethical hacking
+
 
 ---
 
