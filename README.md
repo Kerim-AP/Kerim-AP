@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kerim
 
 🎓 A student at Asia Pacific University (APU), Malaysia  
-💻 Passionate about **ethical hacking**, **AI tools**, and building **automation apps with Python**  
-🎯 Currently learning **Machine Learning**, and **Data Analytics**
+💻 Passionate about **Artifial** and **Biological Neural Networks**, **AI tools**, and building **automation apps with Python**  
+🎯 Currently learning **Machine Learning**, and **Javascript**
 
 ---
 
@@ -12,7 +12,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
