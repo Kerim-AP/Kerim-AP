@@ -1,24 +1,22 @@
 # 👋 Hi, I'm Kerim
 
-🎓 A student at Asia Pacific University (APU), Malaysia  
-💻 Passionate about **Artifial** and **Biological Neural Networks**, **AI tools**, and building **automation apps with Python**  
-🎯 Currently learning **Machine Learning**, and **Javascript**
+A student at Asia Pacific University (APU), Malaysia  
+Passionate about **Artificial Intelligence** and **Biological Neural Networks**, **Robotics**, and building **automation apps with Python**  
+Currently learning **Machine Learning**, and **Javascript**
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔍 RefineAI – Essay Rewriter (AI + Streamlit)
+### RefineAI – Essay Rewriter (AI + Streamlit)
 An AI-powered web app that rewrites essays using natural language processing.  
 Built with Streamlit + OpenRouter API.  
 📎 [View on GitHub](https://github.com/Kerim-AP/RefineAI)
@@ -30,7 +28,7 @@ Built with Python + Tkinter/Streamlit.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Kerim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerim-AP&show_icons=true&theme=tokyonight)
 
@@ -38,8 +36,8 @@ Built with Python + Tkinter/Streamlit.
 
 ## 📚 Currently Learning
 
-- 🕵️ Building simple machine learning models
-- ⚙️ AI-powered automating tools
+- Building simple machine learning models
+- AI-powered automating tools
 
 
 ---
