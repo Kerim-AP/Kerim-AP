@@ -2,14 +2,14 @@
 
 A student at Asia Pacific University (APU), Malaysia  
 Passionate about **Artificial Intelligence** and **Biological Neural Networks**, **Robotics**, and building **automation apps with Python**  
-Currently learning **Machine Learning**, and **Javascript**
+Currently learning **Machine Learning**, and **Systems Programming**
 
 ---
 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL-FF4B4B?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
